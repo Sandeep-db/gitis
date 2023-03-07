@@ -1,0 +1,18 @@
+
+git init
+
+git remote add <url>
+
+git add .
+ 
+git commit -m "message"
+
+git push
+
+git pull
+
+git checkout
+
+git status
+
+git log -
