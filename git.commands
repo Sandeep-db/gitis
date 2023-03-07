@@ -16,3 +16,14 @@ git checkout
 git status
 
 git log -
+
+git branch <branch_name>
+
+git branch
+
+git checkout <branch_name> # change branch
+
+git branch --delete <branch_name>
+
+git chechout -b <branch_name> # create and switch
+
